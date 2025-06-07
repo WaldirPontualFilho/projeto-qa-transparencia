@@ -166,11 +166,7 @@ Este projeto foi desenvolvido como atividade prática da disciplina de Qualidade
 - **Práticas de BDD**
 - **Documentação técnica**
 
-## 📞 Contato
-
-Para dúvidas ou sugestões sobre o projeto, entre em contato com os desenvolvedores:
-- Waldir Pontual
-- Jéssica Furtado
+### Link para video de apresentação: [Link](https://youtu.be/J8fCbKjBYkY)
 
 ---
 
