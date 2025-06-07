@@ -4,7 +4,6 @@ import { Given, When, Then } from '@badeball/cypress-cucumber-preprocessor';
 // STEPS COMUNS PARA TODOS OS CENÁRIOS
 // ================================
 Given('que eu estou na página inicial do Portal da Transparência', () => {
-  // Log para o vídeo
   cy.log('🏠 Acessando Portal da Transparência');
   
   cy.visit('/');
